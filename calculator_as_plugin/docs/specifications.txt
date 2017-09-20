@@ -1,0 +1,12 @@
+Calculator--
+------------------------------------
+run calculator.py --a 3 --b 4 [--sum]
+
+.Takes two numbers (float)
+.Choose one of the operation in ['sum','sub','mul','div']
+.prints the result of the calculation
+
+
+property to change R,W only thing Read, Write
+python profiler
+run the full command not alias command like ls --> /bin/ls..

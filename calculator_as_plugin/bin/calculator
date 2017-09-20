@@ -1,0 +1,7 @@
+#!C:/Users/a0229971/AppData/Local/Continuum/Anaconda3/python.exe
+import sys
+import os
+sys.path.append(os.path.realpath(os.path.join(os.path.dirname(__file__), "..", "lib")))
+
+from calculator_as_plugin.calculator import Calculator
+Calculator().run()
